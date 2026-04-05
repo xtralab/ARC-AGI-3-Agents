@@ -3,6 +3,7 @@
 *.log
 *.env
 !.env-example
+*.venv
 
 # Cache
 .ruff_cache/
@@ -21,3 +22,4 @@ tests/recordings/not-a-recording.txt
 memory.db
 
 environment_files/
+

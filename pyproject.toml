@@ -3,7 +3,7 @@ name = "arc-agi-3-agents"
 version = "0.1.0"
 description = "ARC-AGI-3-Agents"
 readme = "readme.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12.12"
 dependencies = [
     "arc-agi>=0.9.1",
     "dotenv>=0.9.9",

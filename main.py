@@ -1,8 +1,8 @@
 # ruff: noqa: E402
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path=".env.example")
-load_dotenv(dotenv_path=".env", override=True)
+# load_dotenv(dotenv_path=".env.example")
+load_dotenv(dotenv_path=".env", override=False)
 
 import argparse
 import json
